@@ -4,11 +4,11 @@ body {
 }
 
 p {
-    background-color: #AEAED4;
+    background-color: #ff00ff;
 }
 
-#my-p-id {
-    background-color: #AEAED4;
+#custom {
+    background-color: #ffffff;
 }
 
 main p {
