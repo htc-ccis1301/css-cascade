@@ -4,3 +4,4 @@ body {
 }
 p{background-color: #AEAED4;}
 #color{background-color: #FFFFFF;}
+main p{background-color:inherit;}
