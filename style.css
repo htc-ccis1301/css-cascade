@@ -2,3 +2,4 @@ body {
    background-color: #E6E6FA;
    color: #191970;
 }
+main p { background-color: inherit;}
