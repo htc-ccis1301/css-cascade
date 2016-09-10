@@ -2,3 +2,9 @@ body {
    background-color: #E6E6FA;
    color: #191970;
 }
+
+main p {background-color: #AEAED4}
+
+#first {background-color: #ffffff}
+
+main p {background-color: inherit;}
