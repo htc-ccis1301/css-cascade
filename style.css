@@ -1,4 +1,16 @@
 body {
-   background-color: #E6E6FA;
-   color: #191970;
+    background-color: #AEAED4;
+    color: #191970;
+}
+
+#new {
+    background-color: white;
+}
+
+p {
+    background-color: #A6C6DF
+}
+
+main p {
+    background-color: inherit;
 }
